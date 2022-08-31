@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'aAAMxRuU',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername= "mircuyy" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
